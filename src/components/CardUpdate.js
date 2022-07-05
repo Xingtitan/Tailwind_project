@@ -1,7 +1,7 @@
-const Card = (props) => {
+const CardUpdate = (props) => {
   return (
     <div className="flex justify-center">
-      <div className="rounded-lg shadow-lg bg-white card-size">
+      <div className="w-full rounded-lg shadow-lg bg-white card-size mx-5 md:mx-0">
         <a href="/#">
           <img
             className="rounded-t-lg card-img"
@@ -9,8 +9,8 @@ const Card = (props) => {
             alt={props.title}
           />
         </a>
-        <div className="p-6">
-          <h5 className="text-gray-900 text-xl font-medium mb-2">
+        <div className="p-4">
+          <h5 className="text-gray-900 text-sm xl:text-xl font-medium">
             {props.title}
           </h5>
         </div>
@@ -19,4 +19,4 @@ const Card = (props) => {
   );
 };
 
-export default Card;
+export default CardUpdate;

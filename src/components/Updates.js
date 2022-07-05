@@ -40,7 +40,7 @@ const Updates = () => {
       <div className="mb-10 ml-20">
         <h2 className="text-current text-4xl font-bold">Updates</h2>
       </div>
-      <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-4 md:gap-6 mx-20">
+      <div className="grid grid-cols-1 md:grid-cols-2 xl:grid-cols-3 gap-4 md:gap-6 md:mx-20">
         {packingUpdatesList.map((item, index) => {
           return (
             <CardUpdate key={index} title={item.title} imgUrl={item.imgUrl} />

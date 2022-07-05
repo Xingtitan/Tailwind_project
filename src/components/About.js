@@ -1,14 +1,14 @@
 const About = () => {
   return (
-    <div className="about">
-      <div className="card">
-        <div className="p-6 max-w-sm bg-white rounded-lg border border-gray-200 shadow-md dark:bg-gray-800 dark:border-gray-700">
+    <div className="w-full relative z-50 overflow-hidden about">
+      <div className="mx-5 absolute md:static top-1/2 md:top-0 -translate-y-1/2 md:translate-y-0 md:mt-40 md:ml-28">
+        <div className="p-6 max-w-md bg-white rounded-lg border border-gray-200 shadow-md dark:bg-gray-800 dark:border-gray-700">
           <a href="/#">
-            <h5 className="mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white">
+            <h5 className="mb-2 text-xl md:text-2xl font-bold tracking-tight text-gray-900 dark:text-white">
               Trekking and Mountaineering
             </h5>
           </a>
-          <p className="mb-3 font-normal text-gray-700 dark:text-gray-400">
+          <p className="mb-3 text-xs md:text-xl font-normal text-gray-700 dark:text-gray-400">
             Top Himalaya Guides is owned and operated by IFMGA/NNMGA certified
             mountain guides from Nepal. Our guides are multiple Everest
             summiters with experience in mountain environments around the world,

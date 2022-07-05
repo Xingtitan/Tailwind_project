@@ -1,6 +1,6 @@
 const Footer = () => {
   return (
-    <footer className="py-5 px-16 text-white bg-[#030917] mb-12 relative">
+    <footer className="py-5 px-16 text-white bg-[#030917] relative">
       <ul className="w-full justify-center flex flex-col text-center sm:flex-row mx-auto space-y-2 sm:space-y-0 sm:space-x-2 mt-6 overflow-hidden">
         <li>
           <button className="sm:px-4 text-gray-300 hover:text-gray-50">
