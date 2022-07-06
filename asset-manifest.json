@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/Tailwind_project/static/css/main.f99e07d8.css",
+    "main.js": "/Tailwind_project/static/js/main.a38085d0.js",
+    "static/js/787.633816a4.chunk.js": "/Tailwind_project/static/js/787.633816a4.chunk.js",
+    "static/media/background.jpg": "/Tailwind_project/static/media/background.1ea7556ab92ae3860af8.jpg",
+    "static/media/cloud2.png": "/Tailwind_project/static/media/cloud2.e3df34fafd39edab0920.png",
+    "static/media/cloud1.png": "/Tailwind_project/static/media/cloud1.f1f835d8c19dda1728d9.png",
+    "static/media/tshering.jpg": "/Tailwind_project/static/media/tshering.7d089f2fa862a7a6ca21.jpg",
+    "static/media/12days.jpg": "/Tailwind_project/static/media/12days.a1e5edebb0504f73829d.jpg",
+    "static/media/logo.png": "/Tailwind_project/static/media/logo.0475821380532b2cc7e5.png",
+    "index.html": "/Tailwind_project/index.html",
+    "main.f99e07d8.css.map": "/Tailwind_project/static/css/main.f99e07d8.css.map",
+    "main.a38085d0.js.map": "/Tailwind_project/static/js/main.a38085d0.js.map",
+    "787.633816a4.chunk.js.map": "/Tailwind_project/static/js/787.633816a4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f99e07d8.css",
+    "static/js/main.a38085d0.js"
+  ]
+}
